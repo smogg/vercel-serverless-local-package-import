@@ -1,3 +1,4 @@
 {
+  "devCommand": "pnpm dev",
   "ignoreCommand": "pnpm dlx turbo-ignore"
 }
