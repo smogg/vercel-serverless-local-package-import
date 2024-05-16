@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  transpilePackages: ['@acme/ui'],
-}
+  distDir: "dist",
+  transpilePackages: ["@acme/ui"],
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
