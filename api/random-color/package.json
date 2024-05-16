@@ -1,0 +1,13 @@
+{
+  "name": "@acme/random-color",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@acme/utils": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "eslint": "^8.11.0",
+    "typescript": "^5.4.5"
+  }
+}
